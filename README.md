@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Abstract Syntax Trees</h1></div>
 
-![card_thumbnail](src/images/ast_thumbnail.PNG)
+![card_thumbnail](src/images/ast_thumbnail.png)
 
 ## Table of contents
 
